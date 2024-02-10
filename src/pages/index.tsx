@@ -40,7 +40,7 @@ export default function Home() {
         <title>ElonCoin - Empowering the future with Stellar Blockchain</title>
         <meta
           name="description"
-          content="ElonCoin, an innovative digital asset introduced by Elon Musk on the Stellar blockchain. Uncover the possibilities in decentralized finance, sustainability, and groundbreaking innovation."
+          content="ElonMuskCoin, an innovative digital asset introduced by Elon Musk on the Stellar blockchain. Uncover the possibilities in decentralized finance, sustainability, and groundbreaking innovation."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -75,7 +75,7 @@ export default function Home() {
                 href="https://lobstr.co/trade/eCOIN:GCQWVTPTLJMDTQG5XXNYP4UGSYFUA54HW5IKOJF7ZDEJ6I5WXLZAIJMP"
                 className="rounded-full rounded-bl-none bg-black px-16 py-3 text-sm font-semibold text-white transition-all duration-500 hover:bg-[#F45485]"
               >
-                Buy eCoin
+                Buy EMC
               </a>
               <a
                 href="https://t.me/stellar_elon"

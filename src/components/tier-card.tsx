@@ -39,7 +39,7 @@ export default function TierCard({
         }
         className="mt-4 rounded-3xl rounded-bl-none bg-[#F45485] px-2 py-5 text-xl font-medium transition-all duration-500 hover:bg-[#79253F]"
       >
-        Buy eCoin
+        Buy EMC
       </Link>
     </div>
   );

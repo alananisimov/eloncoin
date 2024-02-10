@@ -70,7 +70,7 @@ export default function NavBar() {
           <div className="hidden items-center lg:flex lg:flex-1 lg:justify-end lg:gap-x-8">
             <Popover className="relative">
               <Popover.Button className="duration-400 flex items-center gap-x-1 text-sm font-semibold leading-6 text-gray-900 transition-all hover:text-pink-500 focus:outline-none">
-                Buy eCoin
+                Buy EMC
                 <ChevronDownIcon
                   className="h-5 w-5 flex-none text-gray-400"
                   aria-hidden="true"
