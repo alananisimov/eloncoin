@@ -14,7 +14,7 @@ export const navigation = [
   { name: "Buy XLM", href: "https://stellarterm.com/buy-crypto?code=xlm" },
   {
     name: "Token Explorer",
-    href: "https://stellar.expert/explorer/public/asset/eCOIN-GCQWVTPTLJMDTQG5XXNYP4UGSYFUA54HW5IKOJF7ZDEJ6I5WXLZAIJMP",
+    href: "https://stellar.expert/explorer/public/asset/EMC-GBENEMVUX6LKUU6ZC73SY3ZGOXS5E7Z2XXBN632XHPCYX42MPJDEYAT3",
   },
   {
     name: "Payout",
@@ -26,17 +26,17 @@ const products = [
   {
     name: "Scopuly",
     description: "Safe Stellar DeFi Wallet",
-    href: "https://scopuly.com/trade/eCOIN-XLM/GCQWVTPTLJMDTQG5XXNYP4UGSYFUA54HW5IKOJF7ZDEJ6I5WXLZAIJMP/native",
+    href: "https://scopuly.com/trade/EMC-XLM/GBENEMVUX6LKUU6ZC73SY3ZGOXS5E7Z2XXBN632XHPCYX42MPJDEYAT3/native",
   },
   {
     name: "Lobstr",
     description: "Simple & Secure Stellar Wallet",
-    href: "https://lobstr.co/trade/eCOIN:GCQWVTPTLJMDTQG5XXNYP4UGSYFUA54HW5IKOJF7ZDEJ6I5WXLZAIJMP",
+    href: "https://lobstr.co/trade/EMC:GBENEMVUX6LKUU6ZC73SY3ZGOXS5E7Z2XXBN632XHPCYX42MPJDEYAT3",
   },
   {
     name: "Stellarterm",
     description: "Stellar trading client",
-    href: "https://stellarterm.com/exchange/eCOIN-GCQWVTPTLJMDTQG5XXNYP4UGSYFUA54HW5IKOJF7ZDEJ6I5WXLZAIJMP/XLM-native",
+    href: "https://stellarterm.com/exchange/EMC-GBENEMVUX6LKUU6ZC73SY3ZGOXS5E7Z2XXBN632XHPCYX42MPJDEYAT3/XLM-native",
   },
 ];
 export default function NavBar() {

@@ -37,14 +37,14 @@ export default function TimeLine(props: OlHTMLAttributes<HTMLOListElement>) {
           <li className="mb-4 ms-4">
             <div className="absolute -start-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-gray-200 "></div>
 
-            <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+            <h3 className="text-lg font-semibold text-white">
               Successful launch on Stellar blockchain.
             </h3>
           </li>
           <li className="mb-4 ms-4">
             <div className="absolute -start-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-gray-200 "></div>
 
-            <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+            <h3 className="text-lg font-semibold text-white">
               Build an engaged community.
             </h3>
           </li>
@@ -74,14 +74,14 @@ export default function TimeLine(props: OlHTMLAttributes<HTMLOListElement>) {
           <li className="mb-4 ms-4">
             <div className="absolute -start-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-gray-200 "></div>
 
-            <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+            <h3 className="text-lg font-semibold text-white">
               Introduce DeFi functionalities.
             </h3>
           </li>
           <li className="mb-4 ms-4">
             <div className="absolute -start-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-gray-200 "></div>
 
-            <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+            <h3 className="text-lg font-semibold text-white">
               Implement smart contracts.
             </h3>
           </li>
@@ -119,14 +119,14 @@ export default function TimeLine(props: OlHTMLAttributes<HTMLOListElement>) {
           <li className="mb-4 ms-4">
             <div className="absolute -start-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-gray-200 "></div>
 
-            <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+            <h3 className="text-lg font-semibold text-white">
               Implement environmental initiatives.
             </h3>
           </li>
           <li className="mb-4 ms-4">
             <div className="absolute -start-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-gray-200 "></div>
 
-            <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+            <h3 className="text-lg font-semibold text-white">
               Invest in research and development.
             </h3>
           </li>
@@ -155,14 +155,14 @@ export default function TimeLine(props: OlHTMLAttributes<HTMLOListElement>) {
           <li className="mb-4 ms-4">
             <div className="absolute -start-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-gray-200 "></div>
 
-            <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+            <h3 className="text-lg font-semibold text-white">
               Successful launch on Stellar blockchain.
             </h3>
           </li>
           <li className="mb-4 ms-4">
             <div className="absolute -start-1.5 mt-1.5 h-3 w-3 rounded-full border border-white bg-gray-200 "></div>
 
-            <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+            <h3 className="text-lg font-semibold text-white">
               Build an engaged community.
             </h3>
           </li>
