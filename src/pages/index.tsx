@@ -64,9 +64,10 @@ export default function Home() {
             <p
               className={`mt-6 text-lg leading-8 text-gray-900 ${montrerrat.className} font-medium`}
             >
-              ElonCoin, an innovative digital asset introduced by Elon Musk on
-              the Stellar blockchain. Uncover the possibilities in decentralized
-              finance, sustainability, and groundbreaking innovation.
+              Elon Musk Coin, an innovative digital asset introduced by Elon
+              Musk on the Stellar blockchain. Uncover the possibilities in
+              decentralized finance, sustainability, and groundbreaking
+              innovation.
             </p>
             <div
               className={`mt-10 flex flex-col items-center sm:flex-row ${montrerrat.className} gap-x-6 gap-y-2`}

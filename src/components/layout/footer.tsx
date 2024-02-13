@@ -13,7 +13,7 @@ export default function Footer(props: HTMLAttributes<HTMLDivElement>) {
           "mx-12 flex flex-col items-center justify-between border-t px-8 text-white md:mx-24 md:flex-row ",
         )}
       >
-        <h1 className="text-4xl font-bold ">ElonCoin</h1>
+        <h1 className="text-4xl font-bold ">Elon Musk Coin</h1>
         <div className="z-30 mt-8 flex flex-col gap-x-8 gap-y-2 md:mt-0 md:flex-row">
           {navigation.map((el, index) => (
             <Link href={el.href} key={index}>
